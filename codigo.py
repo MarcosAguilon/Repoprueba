@@ -21,14 +21,15 @@ def main():
   """Función principal de la calculadora."""
   while True:
     # Mostrar menú de opciones
-    print("-" * 20)
-    print("CALCULADORA")
+    #print("-" * 20)
     print("-" * 20)
     print("1. Sumar")
     print("2. Restar")
     print("3. Multiplicar")
     print("4. Dividir")
     print("5. Salir")
+    print("6. esta es una linea de prueba para la opcion salir")
+    print("7. otra prueba")
 
     # Solicitar opción al usuario
     opcion = int(input("Ingrese una opción: "))
