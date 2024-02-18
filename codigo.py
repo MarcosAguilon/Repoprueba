@@ -25,6 +25,7 @@ def main():
     print("-" * 20)
     print("1. Sumar")
     print("2. Restar")
+    print("otras opciones")
     print("3. Multiplicar")
     print("4. Dividir")
     print("5. Salir")
